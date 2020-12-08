@@ -10,7 +10,7 @@ Bi-directional LSTM
 Sequential Attention LSTM
 
 	
-##예측 모델 손실 함수
+## 예측 모델 손실 함수
 
 Quantile loss
 
