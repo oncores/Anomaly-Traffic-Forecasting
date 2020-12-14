@@ -3,6 +3,7 @@
 - 과제기간 : 2019.01.01~2019.12.31
 - 수행기관 : 한국산업기술관리평가원/(주)하몬소프트
 - 역할 : 참여연구원
+- 사용량 예측 모델을 통해 네트워크 장비의 이상 여부를 분류
 
 ## traffic forecasting model
 - LSTM
@@ -23,4 +24,7 @@
 ![ATC](https://user-images.githubusercontent.com/37866322/101491426-10da5d80-39a7-11eb-86c4-365c83ad2e12.jpg)
 
 ## Result
-![image](https://user-images.githubusercontent.com/37866322/102148077-22dc6480-3eaf-11eb-957c-57442e97e15a.png)
+- 예측 모델 기반 장비 이상 탐지 및 예측성능 모델 평가
+- FVU=1-R2 Score
+- N-step : 장비 고장 예측 시점을 5분 단위로 평가
+![image](https://user-images.githubusercontent.com/37866322/102148211-6040f200-3eaf-11eb-8afb-ab21294f4e42.png)
