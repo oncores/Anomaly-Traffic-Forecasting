@@ -1,21 +1,19 @@
 # anomaly_traffic_forecasting
-LTE장비 트래픽 사용량 예측 기반 이상탐지 분류 모델
+- 과제명 : LTE 장비 및 IT 인프라 자산의 효율적 운영을 위한 자가진단 통합 제어 관제 시스템
+- 과제기간 : 2019.01.01~2019.12.31
+- 수행기관 : 한국산업기술관리평가원/(주)하몬소프트
+- 역할 : 참여연구원
 
-## 사용량 예측 모델
-
-LSTM
-
-Bi-directional LSTM
-
-Sequential Attention LSTM
+## traffic forecasting model
+- LSTM
+- Bi-directional LSTM
+- Sequential Attention LSTM
 
 	
-## 예측 모델 손실 함수
+## forecasting custom loss
+- Quantile loss
+- MAE
+- MSE
 
-Quantile loss
-
-MAE
-
-MSE
-
+## 연구개념도
 ![ATC](https://user-images.githubusercontent.com/37866322/101491426-10da5d80-39a7-11eb-86c4-365c83ad2e12.jpg)
