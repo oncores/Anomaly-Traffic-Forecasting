@@ -15,7 +15,7 @@
 - MAE
 - MSE
 
-## Input Feature
+## Input Feature and Data Augmentation
 ![image](https://user-images.githubusercontent.com/37866322/102147633-671b3500-3eae-11eb-9e82-57c6a6e0662d.png)
 
 
