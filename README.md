@@ -15,5 +15,9 @@
 - MAE
 - MSE
 
-## 연구개념도
+## Input Feature
+![image](https://user-images.githubusercontent.com/37866322/102147633-671b3500-3eae-11eb-9e82-57c6a6e0662d.png)
+
+
+## Research Summary
 ![ATC](https://user-images.githubusercontent.com/37866322/101491426-10da5d80-39a7-11eb-86c4-365c83ad2e12.jpg)
